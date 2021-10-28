@@ -1,2 +1,6 @@
-# Flood-Program
-Flood attack with random flags
+# FYI
+- Saya buat hanya untuk pengetahuan
+- Tolong jangan pakai ini untuk menyerang ip orang secara illegal
+
+# Credit
+- iFanpS
